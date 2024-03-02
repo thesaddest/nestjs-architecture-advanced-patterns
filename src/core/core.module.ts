@@ -24,7 +24,7 @@ export class CoreModule {
               host: 'localhost',
               port: 5432,
               username: 'postgres',
-              password: 'Artem568011!',
+              password: '...!',
               autoLoadEntities: true,
               synchronize: true,
             }),
